@@ -2,7 +2,9 @@
 
 # Press ⌃R to execute it or replace it with your code.
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
-
+import sys
+sys.path.append(r'/test_1.py')
+import test_1
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
@@ -13,4 +15,8 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
     print_hi('hi OUYANG Mingxuan')
+    oymx = test_1.People('OUYANG Mingxuan')
+    oymx.work()
+    oymx.sleep()
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
