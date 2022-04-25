@@ -18,5 +18,6 @@ if __name__ == '__main__':
     oymx = test_1.People('OUYANG Mingxuan')
     oymx.work()
     oymx.sleep()
+    print("good job")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/

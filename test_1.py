@@ -13,3 +13,6 @@ class People:
         print(self.name, "need to sleep", self.sleephour, "hours")
         print(f'{self.name} need to sleep {People.sleephour} hours')
 
+    def est(self):
+        print("emmmmmm")
+
