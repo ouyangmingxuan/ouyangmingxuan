@@ -2,7 +2,7 @@
 - 👀 I’m interested in code
 - 🌱 I’m currently learning Deep learning
 - 💞️ I’m looking to collaborate on polyu
-- 📫 How to reach me :156 6233 5512 or 5669 0560
+- 📫 How to reach me : mingxuan.ouyang@connect.polyu.hk
 
 <!---
 ouyangmingxuan/ouyangmingxuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
